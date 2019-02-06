@@ -1,0 +1,9 @@
+{
+  "name": "better-quene",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "better-queue": "^3.8.10"
+  }
+}
